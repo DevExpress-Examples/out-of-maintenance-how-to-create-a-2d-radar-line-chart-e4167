@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/RadarLineSeries2D/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RadarLineSeries2D/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a 2D Radar Line chart
 
 
